@@ -60,5 +60,5 @@ Location.json
 }
 ```
 
-##### Location file may take 40 seconds to be saved if you are not connected to internet. <hr>
-😀
+##### Location file may take 40 seconds to be saved if you are not connected to internet. <hr style='width:1px;'>
+🙂
