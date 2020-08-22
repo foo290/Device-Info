@@ -19,7 +19,7 @@ json
 
 ### Execution
 ```
-python client_node.py
+>>> python client_node.py
 ```
 
 ### Output
